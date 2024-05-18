@@ -33,7 +33,7 @@
 - mysql  Ver 15.1
 
 ## instalation
-1. git clone https://github.com/Anggang456/project-app.git
+1. git clone https://github.com/mochananta/test-sekawan.git
 2. composer update
 3. ubah .env.example ke .env
 4. tambahkan nama database, port atau password database
